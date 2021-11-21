@@ -5,7 +5,7 @@ Bienvenidos colaboradores y visitantes!. Este es el repositorio del proyecto del
 
 Miembros del equipo
 ------------
-[comment]: <> (This is a comment, it will not be included)
+
 
 <!-- Equipo de desarroladores, (vease [contributors](../../graphs/contributors)): -->
 Equipo de desarroladores:
