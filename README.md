@@ -11,7 +11,9 @@ Miembros del equipo
 Equipo de desarroladores:
   
   - **Jose Felipe Escobar Ballesta** (jfejose10@gmail.com)
+  
   [comment]: <> (esto es un comentario: pongan sus nombres y correos )
+  
   - **nombre integrante 2** (correo)
   - **nombre integrante 3** (correo)
   - **nombre integrante 4** (correo)
